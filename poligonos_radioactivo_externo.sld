@@ -20,7 +20,7 @@
                     <OnlineResource xlink:type="simple" xlink:href="http://mapa.guadalajara.gob.mx/assets/images/atlas/Radioactive.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
-                 <Size>32</Size></Graphic>
+                 <Size>20</Size></Graphic>
               </GraphicStroke>            
             </Stroke>
           </LineSymbolizer>
