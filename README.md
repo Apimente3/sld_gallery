@@ -10,27 +10,27 @@
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/fallas_y_fracturas.png" width="200"></td>
   </tr>
   <tr>
-   <td>icono_gasolinera.sld</td>
+   <td<a href="https://github.com/HennessyAB/sld_gallery/blob/master/icono_gasolinera.sld">>icono_gasolinera.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/icono_gasolinera.png" width="200"></td>
    </tr>
    <tr>
-   <td>icono_inundacion.sld</td>
+   <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/icono_inundacion.sld">icono_inundacion.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/icono_inundacion.png" width="200"></td>
    </tr>
    <tr>
-   <td>linea_con_perpendiculares.sld</td>
+   <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/linea_con_perpendiculares.sld">linea_con_perpendiculares.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/linea_con_perpendiculares.png" width="200"></td>
    </tr>
    <tr>
-   <td>linea_punteada_8_4.sld</td>
+   <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/linea_punteada_8_4.sld">linea_punteada_8_4.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/linea_punteada_8_4.png" width="200"></td>
    </tr>
    <tr>
-   <td>linea_simple_azul.sld</td>
+   <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/linea_simple_azul.sld">linea_simple_azul.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/linea_simple_azul.png" width="200"></td>
    </tr>
    <tr>
-   <td>poligono_relleno_x_con_centroide.sld</td>
+   <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/poligono_relleno_x_con_centroide.sld">poligono_relleno_x_con_centroide.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/poligono_relleno_x_con_centroide.png" width="200"></td>
    </tr>
    <tr>
