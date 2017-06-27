@@ -6,7 +6,7 @@
     <th>Vista Previa</th>
   </tr>
   <tr>
-    <td>fallas_y_fracturas.sld</td>
+    <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/fallas_y_fracturas.sld">fallas_y_fracturas.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/fallas_y_fracturas.png" width="200"></td>
   </tr>
   <tr>
