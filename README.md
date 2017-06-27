@@ -5,11 +5,12 @@
     <th>Nombre</th>
     <th>Vista Previa</th>
   </tr>
-        <br>
+  <td>
   <tr>
     <td>fallas_y_fracturas.sld</td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/fallas_y_fracturas.png" width="200"></td>
     <td>icono_gasolinera.sld</td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/icono_gasolinera.png" width="200"></td>
   </tr>
+  </td>
 </table>
