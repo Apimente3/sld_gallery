@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>fallas_y_fracturas.sld</td>
-    <td>Smith</td> 
+    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/fallas%20y%20fracturas.png" width="200"></td> 
     <td>50</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/fallas%20y%20fracturas.png" width="200"></td>
+    <td></td>
     <td>Jackson</td> 
     <td>94</td>
   </tr>
