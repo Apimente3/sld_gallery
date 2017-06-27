@@ -7,12 +7,8 @@
   </tr>
   <tr>
     <td>fallas_y_fracturas.sld</td>
-    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/fallas%20y%20fracturas.png" width="200"></td> 
-    <td>50</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/fallas%20y%20fracturas.png" width="200"></td>
+    <td>icono_gasolinera.sld</td>
+    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/icono_gasolinera.png" width="200"></td>
   </tr>
 </table>
