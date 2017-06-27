@@ -2,7 +2,7 @@
   <NamedLayer>
     <Name>Gasolinera icono SVG</Name>
     <UserStyle>
-      <Title>GeoServer SLD Cook Book: Point as graphic y Geomática de Guadalajara</Title>
+      <Title>GeoServer SLD Cook Book: Point as graphic y Geomática de Guadalajara 2017</Title>
       <FeatureTypeStyle>
         <Rule>
           <PointSymbolizer>
