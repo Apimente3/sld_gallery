@@ -13,4 +13,8 @@
    <td>icono_gasolinera.sld</td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/icono_gasolinera.png" width="200"></td>
    </tr>
+   <tr>
+   <td>icono_inundacion.sld</td>
+    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/icono_inundacion.png" width="200"></td>
+   </tr>
 </table>
