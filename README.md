@@ -34,19 +34,19 @@
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/poligono_relleno_x_con_centroide.png" width="200"></td>
    </tr>
    <tr>
-   <td>poligonos_circulos_externos.sld</td>
+   <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/poligonos_circulos_externos.sld">poligonos_circulos_externos.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/poligonos_circulos_externos.png" width="200"></td>
    </tr>
    <tr>
-    <td>poligonos_radioactivo_externo.sld</td>
+    <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/poligonos_radioactivo_externo.sld">poligonos_radioactivo_externo.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/poligonos_radioactivo_externo.png" width="200"></td>
   </tr>
   <tr>
-    <td>poligonos_triangulos_externos.sld</td>
+    <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/poligonos_triangulos_externos.sld">poligonos_triangulos_externos.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/poligonos_triangulos_externos.png" width="200"></td>
   </tr>
   <tr>
-    <td>relleno_diagonal_x.sld</td>
+    <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/rellano_diagonal_x.sld">relleno_diagonal_x.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/relleno_diagonal_x.png" width="200"></td>
   </tr>
 </table>
