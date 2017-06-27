@@ -10,7 +10,7 @@
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/fallas_y_fracturas.png" width="200"></td>
   </tr>
   <tr>
-   <td<a href="https://github.com/HennessyAB/sld_gallery/blob/master/icono_gasolinera.sld">>icono_gasolinera.sld</a></td>
+   <td<a href="https://github.com/HennessyAB/sld_gallery/blob/master/icono_gasolinera.sld">icono_gasolinera.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/icono_gasolinera.png" width="200"></td>
    </tr>
    <tr>
