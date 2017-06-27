@@ -2,7 +2,7 @@
   <NamedLayer>
     <Name>Zonas Radioactivas</Name>
     <UserStyle>
-      <Title>SLD Cook Book: Simple polygon with stroke y Geomática de Guadalajara</Title>
+      <Title>SLD Cook Book: Simple polygon with stroke y Geomática de Guadalajara 2017</Title>
       <FeatureTypeStyle>
         <Rule>
           <PolygonSymbolizer>
@@ -17,7 +17,7 @@
               <GraphicStroke>
                 <Graphic>
                   <ExternalGraphic>
-                    <OnlineResource xlink:type="simple" xlink:href="http://mapa.guadalajara.gob.mx/assets/images/atlas/Radioactive.svg"/>
+                    <OnlineResource xlink:type="simple" xlink:href="http://ruta/Radioactive.svg"/>
                     <Format>image/svg+xml</Format>
                   </ExternalGraphic>
                  <Size>20</Size></Graphic>
