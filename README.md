@@ -49,4 +49,8 @@
     <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/relleno_diagonal_x.sld">relleno_diagonal_x.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/relleno_diagonal_x.png" width="200"></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/poligonos_degradado_azul.sld">poligonos_degradado_azul.sld</a></td>
+    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/poligonos_degradado_azul.png" width="200"></td>
+  </tr>
 </table>
