@@ -5,11 +5,12 @@
     <sld:Name></sld:Name>
     <sld:UserStyle>
       <sld:Name>Default Styler</sld:Name>
+      <Title>QGIS, SLD Cook Book: Label halo, SLD Editor y Geomática de Guadalajara 2017</Title>
       <sld:FeatureTypeStyle>
         <sld:Name>name</sld:Name>
         <sld:Rule>
           <sld:Name>Feozem Haplico Más Litosol</sld:Name>
-          <sld:Title>QGIS, SLD Cook Book: Label halo, SLD Editor y Geomática de Guadalajara 2017</sld:Title>
+          <sld:Title></sld:Title>
           <sld:Abstract></sld:Abstract>
           <ogc:Filter>
             <ogc:PropertyIsEqualTo>
