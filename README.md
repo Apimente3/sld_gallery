@@ -65,4 +65,8 @@
     <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/poligonos_con_texto.sld">poligonos_con_texto.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/poligonos_con_texto.png" width="200"></td>
   </tr>
+   <tr>
+    <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/poligonos_colores_transparencia.sld">poligonos_colores_transparencia.sld</a></td>
+    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/poligonos_colores_transparencia.png" width="200"></td>
+  </tr>
 </table>
