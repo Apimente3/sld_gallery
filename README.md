@@ -75,6 +75,6 @@
   </tr>
   <tr>
     <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/lineas_borde_transparencia.sld">lineas_borde_transparencia.sld</a></td>
-    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/plineas_borde_transparencia.png" width="200"></td>
+    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/lineas_borde_transparencia.png" width="200"></td>
   </tr>
 </table>
