@@ -89,4 +89,8 @@
     <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/linea_perpendicular_punteado.sld">linea_perpendicular_punteado.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/linea_perpendicular_punteado.png" width="200"></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/icono_simple_volcan.sld">icono_simple_volcan.sld</a></td>
+    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/icono_simple_volcan.png" width="200"></td>
+  </tr>
 </table>
