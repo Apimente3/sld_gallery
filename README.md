@@ -13,17 +13,13 @@
     <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/icono_gasolinera.sld">icono_gasolinerasld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/icono_gasolinera.png" width="200"></td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/icono_gasolinera.sld">icono_gasolinerasld</a></td>
-    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/icono_gasolinera.png" width="200"></td>
-  </tr>
    <tr>
    <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/icono_inundacion.sld">icono_inundacion.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/icono_inundacion.png" width="200"></td>
+    <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/linea_con_perpendiculares.sld">linea_con_perpendiculares.sld</a></td>
+    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/linea_con_perpendiculares.png" width="200"></td>
    </tr>
    <tr>
-   <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/linea_con_perpendiculares.sld">linea_con_perpendiculares.sld</a></td>
-    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/linea_con_perpendiculares.png" width="200"></td>
    </tr>
    <tr>
    <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/linea_punteada_8_4.sld">linea_punteada_8_4.sld</a></td>
