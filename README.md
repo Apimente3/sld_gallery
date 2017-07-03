@@ -4,6 +4,8 @@
   <tr>
     <th>Nombre</th>
     <th>Vista Previa</th>
+    <th>Nombre</th>
+    <th>Vista Previa</th>
   </tr>
   <tr>
     <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/fallas_y_fracturas.sld">fallas_y_fracturas.sld</a></td>
