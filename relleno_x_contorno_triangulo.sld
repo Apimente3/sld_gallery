@@ -12,7 +12,7 @@
                   <Mark>
                     <WellKnownName>shape://times</WellKnownName>
                     <Stroke>
-                      <CssParameter name="stroke">#00d2ff</CssParameter>
+                      <CssParameter name="stroke">#003cff</CssParameter>
                       <CssParameter name="stroke-width">1</CssParameter>
                     </Stroke>
                   </Mark>
