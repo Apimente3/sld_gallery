@@ -77,5 +77,7 @@
    <tr>
     <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/relleno_x_contorno_triangulo.sld">relleno_x_contorno_triangulo.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/relleno_x_contorno_triangulo.png" width="200"></td>
+    <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/clasificado_azul.sld">clasificado_azul.sld</a></td>
+    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/clasificado_azul.png" width="200"></td>
   </tr>
 </table>
