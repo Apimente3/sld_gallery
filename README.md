@@ -6,7 +6,7 @@
 
 <tr>
 
-<td> width="10%"> <a href="http://www.qgis.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo.png" width="20%"> </a> </td>
+<td> width="10%" <a href="http://www.qgis.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo.png" width="20%"> </a> </td>
 
 <td> <a href="http://www.geoserver.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/geoserver.png" width="20%"> </a> </td>
 
