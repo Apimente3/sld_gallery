@@ -1,4 +1,5 @@
 # sld_gallery
+<head>
 <h1>Galería de simbologias SLD 100% compatibles con GeoServer</h1>
 <style>
 table, td {
@@ -100,3 +101,4 @@ table, td {
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/clasificado_azul.png" width="200"></td>
   </tr>
 </table>
+</head>
