@@ -4,11 +4,11 @@
 <h5>Para su elaboracion se utilizo lo siguiente</h5>
 <table style="width:100%">
   <tr>
-<td><a href="http://www.qgis.org"> QGIS </a><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo_anita02.png" width="20%"><br></td>
-<td><a href="http://www.geoserver.org"> GeoServer </a><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/geoserver.png" width="20%"></td>
-<td><a href="https://github.com/robward-scisys/sldeditor/"> SLD Editor </a><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/sldeditor-logo.png" width="20%"></td>
-<td><a href="http://docs.geoserver.org/stable/en/user/styling/sld/cookbook/"> SLD Cookbook </a><img src="sldeditor-logo.png" width="20%"></td>
-<td><a href="http://docs.geoserver.org/stable/en/user/styling/sld/index.html"> SLD Styling </a><img src="sldeditor-logo.png" width="20%"></td>
+<td><href="http://www.qgis.org"><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo_anita02.png" width="20%"><br></td>
+<td><href="http://www.geoserver.org"><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/geoserver.png" width="20%"></td>
+<td><href="https://github.com/robward-scisys/sldeditor/"></a><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/sldeditor-logo.png" width="20%"></td>
+<td><a href="http://docs.geoserver.org/stable/en/user/styling/sld/cookbook/"> SLD Cookbook </a></td>
+<td><a href="http://docs.geoserver.org/stable/en/user/styling/sld/index.html"> SLD Styling </a></td>
   </tr>
 </table>
 <table style="width:100%">
