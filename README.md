@@ -5,7 +5,7 @@
 
 
 <table align="center">
-
+<tr>
 <td> <a href="http://www.qgis.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo.png" width="100px"> </a> </td>
 
 <td> <a href="http://www.geoserver.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/geoserver.png" width="100px"> </a> </td>
@@ -15,7 +15,7 @@
 <td> <a href="http://docs.geoserver.org/stable/en/user/styling/sld/cookbook/">SLD Cookbook</a> </td>
 
 <td> <a href="http://docs.geoserver.org/stable/en/user/styling/sld/index.html">SLD Styling</a> </td>
-
+</tr>
 </table>
 
 <table style="width:100%">
