@@ -1,6 +1,10 @@
 # sld_gallery
 <h1>Galería de simbologias SLD 100% compatibles con GeoServer</h1>
-
+<style>
+table, td {
+    border: 1px solid black;
+}
+</style>
 <table>
 <tr>
 <td> <a href="http://www.qgis.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo.png" width="100px"> </a> </td>
