@@ -1,16 +1,14 @@
 # sld_gallery
 <h1>Galería de estilos SLD para GeoServer</h1>
 <h3>Simbologias SLD 100% compatibles con GeoServer</h3>
-<h5>Para su elaboracion se utilizo lo siguiente</h5>
-
 
 <table style="width:100%">
 <tr>
-<td> <a href="http://www.qgis.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo.png" width="100px"> </a> </td>
+<td> <a href="http://www.qgis.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo.png" width="20%"> </a> </td>
 
-<td> <a href="http://www.geoserver.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/geoserver.png" width="100px"> </a> </td>
+<td> <a href="http://www.geoserver.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/geoserver.png" width="20%"> </a> </td>
 
-<td> <a href="https://github.com/robward-scisys/sldeditor/"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/sldeditor-logo.png" width="100px"> </a> </td>
+<td> <a href="https://github.com/robward-scisys/sldeditor/"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/sldeditor-logo.png" width="20%"> </a> </td>
 
 <td> <a href="http://docs.geoserver.org/stable/en/user/styling/sld/cookbook/">SLD Cookbook</a> </td>
 
