@@ -2,7 +2,7 @@
 
 <h1>Galería de simbologias SLD 100% compatibles con GeoServer</h1>
 
-<table align="right">
+<table style="width:100%" align="center">
 <tr>
 <td> <a href="http://www.qgis.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo.png" width="100px"> </a> </td>
 
