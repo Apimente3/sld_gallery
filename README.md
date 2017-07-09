@@ -4,7 +4,7 @@
 
 <table style="width:100%">
 <tr>
-<td> <a href="http://www.qgis.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo.png" width="20%"> </a>
+<td> <a href="http://www.qgis.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo.png" width="20%"> </a> </td>
 <a href="http://www.geoserver.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/geoserver.png" width="20%"> </a> 
 <a href="https://github.com/robward-scisys/sldeditor/"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/sldeditor-logo.png" width="20%"> </a> 
 <a href="http://docs.geoserver.org/stable/en/user/styling/sld/cookbook/">SLD Cookbook</a> 
