@@ -4,7 +4,7 @@
 <h5>Para su elaboracion se utilizo lo siguiente</h5>
 
 
-<table align="center">
+<table style="width:100%">
 <tr>
 <td> <a href="http://www.qgis.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo.png" width="100px"> </a> </td>
 
