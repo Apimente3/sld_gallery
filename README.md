@@ -1,7 +1,7 @@
 # sld_gallery
 <h1>Galería de estilos SLD para GeoServer</h1>
 <h3>Simbologias SLD 100% compatibles con GeoServer</h3>
-<div>
+<div style="float: center; width: 100%;">
 <table align="center">
 <tr>
 <td> <a href="http://www.qgis.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo.png" width="100px"> </a> </td>
