@@ -27,7 +27,7 @@
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/icono_gasolinera.png" width="200"></td>
   </tr>
    <tr>
-   <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/files/icono_inundacion.sld">icono_inundacion.sld</a></td>
+   <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/files/icono_inundacion_svg.sld">icono_inundacion.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/icono_inundacion.png" width="200"></td>
     <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/files/linea_con_perpendiculares.sld">linea_con_perpendiculares.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/linea_con_perpendiculares.png" width="200"></td>
