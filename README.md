@@ -1,9 +1,24 @@
 # sld_gallery
-<head>
+
 <h1>Galería de simbologias SLD 100% compatibles con GeoServer</h1>
 <style>
-table, td {
-    border: 1px solid black;
+table {
+    font-family: exo, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #bbbbbb;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+td {
+width: 50%;
 }
 </style>
 <table>
@@ -101,4 +116,3 @@ table, td {
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/clasificado_azul.png" width="200"></td>
   </tr>
 </table>
-</head>
