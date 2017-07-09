@@ -4,8 +4,9 @@
 <h5>Para su elaboracion se utilizo lo siguiente</h5>
 
 <table style="width:100%">
-<td><href="http://www.qgis.org"><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo_anita02.png" width="20%"></td>
+
 <td><href="http://www.geoserver.org"><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/geoserver.png" width="20%"></td>
+<td><href="http://www.qgis.org"><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo_anita02.png" width="20%"></td>
 <td><href="https://github.com/robward-scisys/sldeditor/"></a><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/sldeditor-logo.png" width="20%"></td>
 <td><a href="http://docs.geoserver.org/stable/en/user/styling/sld/cookbook/">SLD Cookbook</a></td>
 <td><a href="http://docs.geoserver.org/stable/en/user/styling/sld/index.html">SLD Styling</a></td>
