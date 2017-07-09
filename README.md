@@ -1,13 +1,11 @@
 # sld_gallery
 <h1>Galería de estilos SLD para GeoServer</h1>
-<h3>Simbologias SLD compatibles 100% con GeoServer</h3>
+<h3>Simbologias SLD 100% compatibles con GeoServer</h3>
 <h5>Para su elaboracion se utilizo lo siguiente</h5>
 
 
 <div style="text-align:center;">
 <table border="1" style="margin: 0 auto;">
-<table style="width:100%">
-
 <td> <a href="http://www.qgis.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/qgis-logo.png" width="100px"> </a> </td>
 
 <td> <a href="http://www.geoserver.org"> <img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/assets/geoserver.png" width="100px"> </a> </td>
