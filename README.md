@@ -93,4 +93,10 @@
     <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/files/clasificado_azul.sld">clasificado_azul.sld</a></td>
     <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/clasificado_azul.png" width="200"></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/files/texto_clasificado_centroide.sld">texto_clasificado_centroide.sld</a></td>
+    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/texto_clasificado_centroide.png" width="200"></td>
+    <td><a href="https://github.com/HennessyAB/sld_gallery/blob/master/files/clasificado_azul.sld">clasificado_azul.sld</a></td>
+    <td><img src="https://github.com/HennessyAB/sld_gallery/blob/master/files/clasificado_azul.png" width="200"></td>
+  </tr>
 </table>
